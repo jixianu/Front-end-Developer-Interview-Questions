@@ -15,3 +15,5 @@ permalink: /questions/network-questions/index.html
   * ETag
   * X-Frame-Options
 * What are HTTP methods? List all HTTP methods that you know, and explain them.
+* What is domain pre-fetching and how does it help with performance?
+* What is a CDN and what is the benefit of using one?
